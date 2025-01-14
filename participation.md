@@ -22,8 +22,15 @@ more than one point per category. There is a maximum of 5 points each week.
 ## Log ##
 
 - Week 1
-	+ Attended class Tuesday and Thursday
+	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ Introduced myself to a classmate (whose name I cannot spell)
+	+ Answered someone's question in the Discord
+	+ points: 4
 - Week 2
+	+ Attended class Tuesday
+	+ Volunteered at the front of class
+	+ points: 2
 - Week 3
 - Week 4
 - Week 5
