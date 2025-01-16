@@ -1,5 +1,5 @@
 # My Favorite Things
-## *By DQ De Quattro*
+### *By DQ De Quattro*
 
 1. My Mom
 2. RPGs
