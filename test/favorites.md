@@ -1,12 +1,12 @@
 # My Favorite Things
-## By DQ De Quattro
+## *By DQ De Quattro*
 
-- RPGs
-- Imaginal Disk by Magdalena Bay
-- Color Coordination and Contrast
+1. My Mom
+2. RPGs
+3. Imaginal Disk by Magdalena Bay
+4. Color Coordination and Contrast
 	- Pink, Green, and Black
 	- White, Brown, and Blue
 	- Gold, Red, and Brown
-- HGTV shows (not House Hunters)
-- Plush Toys
-- My Mom
+5. Plush Toys
+6. Genetics
