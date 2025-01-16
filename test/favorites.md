@@ -1,9 +1,9 @@
-# My Favorite Things
-### *By DQ De Quattro*
+# **My Favorite Things**
+### *by DQ De Quattro*
 
 1. My Mom
 2. RPGs
-3. Imaginal Disk by Magdalena Bay
+3. *Imaginal Disk* by Magdalena Bay
 4. Color Coordination and Contrast
 	- Pink, Green, and Black
 	- White, Brown, and Blue
