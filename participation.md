@@ -29,10 +29,11 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ points: 4
 - Week 2
 	+ Attended class Tuesday
-	+ Volunteered at the front of class
+	+ Volunteered at the front of class on Tuesday
 	+ Attended class Thursday
-	+ Introduced myself to Anita. Laurena, and Veda
-	+ points: 2
+	+ Introduced myself to Anita, Lauren, and Veda
+	+ Volunteered at the front of class on Thursday
+	+ points: 5
 - Week 3
 - Week 4
 - Week 5
