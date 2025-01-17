@@ -1,0 +1,126 @@
+Thu Jan 16 16:09:48 PST 2025
+CYGWIN_NT-10.0-19045 DomLaptop 3.5.5-1.x86_64 2024-12-20 16:19 UTC x86_64 Cygwin
+ProgramFiles(x86)=C:\Program Files (x86)
+!::=::\
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+SHELL=/bin/bash
+NUMBER_OF_PROCESSORS=8
+PROCESSOR_LEVEL=6
+TERM_PROGRAM_VERSION=3.7.7
+USERDOMAIN_ROAMINGPROFILE=DOMLAPTOP
+HOSTNAME=DomLaptop
+PROGRAMFILES=C:\Program Files
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+OS=Windows_NT
+HOMEDRIVE=C:
+__PSLockDownPolicy=0
+USERDOMAIN=DOMLAPTOP
+PWD=/home/domin/Code/mcb185_homework
+USERPROFILE=C:\Users\domin
+OneDriveConsumer=C:\Users\domin\OneDrive
+PRINTER=Brother MFC-J5720DW Printer
+TZ=America/Los_Angeles
+ALLUSERSPROFILE=C:\ProgramData
+ORIGINAL_PATH=/cygdrive/c/windows/system32:/cygdrive/c/windows:/cygdrive/c/windows/System32/Wbem:/cygdrive/c/windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/PuTTY:/cygdrive/c/Program Files/MATLAB/R2023a/bin:/cygdrive/c/Users/domin/AppData/Local/Programs/Python/Launcher:/cygdrive/c/Users/domin/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/domin/AppData/Local/GitHubDesktop/bin:/cygdrive/c/Users/domin/AppData/Roaming/TinyTeX/bin/windows
+CommonProgramW6432=C:\Program Files\Common Files
+HOME=/home/domin
+USERNAME=domin
+OneDrive=C:\Users\domin\OneDrive
+COMSPEC=C:\windows\system32\cmd.exe
+APPDATA=C:\Users\domin\AppData\Roaming
+SYSTEMROOT=C:\windows
+LOCALAPPDATA=C:\Users\domin\AppData\Local
+COMPUTERNAME=DOMLAPTOP
+INFOPATH=/usr/local/info:/usr/share/info:/usr/info
+TERM=xterm
+LOGONSERVER=\\DOMLAPTOP
+USER=domin
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+TEMP=/tmp
+SHLVL=2
+PROCESSOR_REVISION=8c01
+DriverData=C:\Windows\System32\Drivers\DriverData
+COMMONPROGRAMFILES=C:\Program Files\Common Files
+LC_CTYPE=en_US.UTF-8
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+SESSIONNAME=Console
+HOMEPATH=\Users\domin
+TMP=/tmp
+PATH=/usr/local/bin:/usr/bin:/cygdrive/c/windows/system32:/cygdrive/c/windows:/cygdrive/c/windows/System32/Wbem:/cygdrive/c/windows/System32/WindowsPowerShell/v1.0:/cygdrive/c/windows/System32/OpenSSH:/cygdrive/c/Program Files (x86)/PuTTY:/cygdrive/c/Program Files/MATLAB/R2023a/bin:/cygdrive/c/Users/domin/AppData/Local/Programs/Python/Launcher:/cygdrive/c/Users/domin/AppData/Local/Microsoft/WindowsApps:/cygdrive/c/Users/domin/AppData/Local/GitHubDesktop/bin:/cygdrive/c/Users/domin/AppData/Roaming/TinyTeX/bin/windows
+ProgramW6432=C:\Program Files
+PROFILEREAD=true
+MINTTY_SHORTCUT=/cygdrive/c/Users/domin/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar/Cygwin64 Terminal.lnk
+WINDIR=C:\windows
+PROCESSOR_ARCHITECTURE=AMD64
+PUBLIC=C:\Users\Public
+SYSTEMDRIVE=C:
+EXECIGNORE=*.dll
+OLDPWD=/home/domin
+TERM_PROGRAM=mintty
+ProgramData=C:\ProgramData
+_=/usr/bin/printenv
+Python 3.9.16
+/home/domin/Code:
+MCB185
+mcb185_homework
+
+/home/domin/Code/MCB185:
+LICENSE
+README.md
+course
+data
+participation.md
+ref
+src
+
+/home/domin/Code/MCB185/course:
+participation.md
+unit0-unix.md
+unit1-calculations.md
+unit2-iteration.md
+unit3-containers.md
+unit4-sequences.md
+unit5-words.md
+unit6-data.md
+unit7-executables.md
+
+/home/domin/Code/MCB185/data:
+A.thaliana.fa.gz
+A.thaliana.gff.gz
+C.elegans.fa.gz
+C.elegans.gff.gz
+C.elegans.vcf.gz
+C.elegans_transcripts.fa.gz
+D.melanogaster.fa.gz
+D.melanogaster.gff.gz
+GCF_000005845.2_ASM584v2_genomic.fna.gz
+GCF_000005845.2_ASM584v2_genomic.gbff
+GCF_000005845.2_ASM584v2_genomic.gff.gz
+GCF_000005845.2_ASM584v2_protein.faa.gz
+README.md
+colors_basic.tsv
+colors_extended.tsv
+dictionary.gz
+jaspar2024_core.transfac.gz
+primers.csv
+
+/home/domin/Code/MCB185/ref:
+LINUX_REFERENCE.md
+PYTHON_COOKBOOK.md
+PYTHON_REFERENCE.md
+
+/home/domin/Code/MCB185/src:
+mcb185.py
+
+/home/domin/Code/mcb185_homework:
+00hello.sh
+01hello.py
+02status.sh
+03report.txt
+README.md
+participation.md
+test
+
+/home/domin/Code/mcb185_homework/test:
+colors.txt
+favorites.md
