@@ -9,7 +9,7 @@ def prob(n):
     else:                   return False
 
 def geomean(a, b, c, d):
-    return a * b * c * d / 4
+    return (a * b * c * d) ** (1/4)
 
 def max(a, b, c, d):
     if a >= b and a >= c and a >= d:
