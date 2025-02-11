@@ -35,9 +35,27 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Volunteered at the front of class on Thursday
 	+ points: 5
 - Week 3
+	+ Attended class Tuesday
+	+ Assessed in class
+	+ Attended class Thursday
+	+ Introduced myself to Karen
+	+ points: 4
 - Week 4
+	+ Attended class Tuesday
+	+ Introduced myself to Michael
+	+ Assessed in class
+	+ Attended class Thursday
+	+ Asked a question in class
+	+ points: 5
 - Week 5
+	+ Attended class Tuesday
+	+ Coached at the front of the class
+	+ Asked a question in class
+	+ Attended class Thursday
+	+ Coached from my seat
+	+ points: 5
 - Week 6
+	+ Attended class Tuesday
 - Week 7
 - Week 8
 - Week 9
