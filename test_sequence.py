@@ -1,4 +1,4 @@
-import sequence.py
+import sequence
 
 s = 'ACGTGGGGGGCATATG'
 print(sequence.gc_comp(s))

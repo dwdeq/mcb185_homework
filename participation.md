@@ -56,7 +56,19 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ points: 5
 - Week 6
 	+ Attended class Tuesday
+	+ Asked a question in class
+	+ Attended class Thursday
+	+ Asked a question in class
+	+ points: 4
 - Week 7
+	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ Assessed in class
+	+ Volunteered at the front of class on Thursday
+	+ points: 4
 - Week 8
+	+ Attended class Tuesday
+	+ Attended class Thursday
+	+ points: 2
 - Week 9
 - Week 10
