@@ -3,11 +3,9 @@ Participation
 
 ## Instructions ##
 
-You log your own participation. Lying about your participation is a form of
-academic misconduct. If you are caught cheating, you will be reported to SJA.
+You log your own participation. Lying about your participation is a form of academic misconduct. If you are caught cheating, you will be reported to SJA.
 
-Each week you may earn 1 point for each of the categories below. You cannot get
-more than one point per category. There is a maximum of 5 points each week.
+Each week you may earn 1 point for each of the categories below. You cannot get more than one point per category. There is a maximum of 5 points each week.
 
 + Attended class on Tuesday
 + Attended class on Thursday
@@ -58,8 +56,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Tuesday
 	+ Asked a question in class
 	+ Attended class Thursday
-	+ Asked a question in class
-	+ points: 4
+	+ points: 3
 - Week 7
 	+ Attended class Tuesday
 	+ Attended class Thursday
@@ -71,4 +68,14 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class Thursday
 	+ points: 2
 - Week 9
+	+ Attended class Tuesday
+	+ Assessed in class
+	+ Attended class Thursday
+	+ points: 3
 - Week 10
+	+ Attended class Tuesday
+	+ Assessed in class
+	+ Asked a question in class
+	+ points : 3
+
+Total points: 38
